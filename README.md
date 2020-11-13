@@ -1,5 +1,5 @@
 # Scientific-Writing
-Course Data of Scientific Writing.
+Course Data of Scientific Writing in ZJU.
 
 Include the following materials:
 
