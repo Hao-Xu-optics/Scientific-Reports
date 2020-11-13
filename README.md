@@ -9,3 +9,4 @@ Include the following materials:
 
 * Poster for the course.
 
+* The slides of the presentation (with some deletions).
