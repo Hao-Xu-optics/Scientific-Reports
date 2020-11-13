@@ -1,2 +1,3 @@
-# Scientific-Reports
-Course Data of Scientific Reports.
+# Scientific-Writing
+Course Data of Scientific Writing.
+
